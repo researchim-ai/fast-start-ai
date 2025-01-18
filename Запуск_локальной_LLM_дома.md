@@ -15,6 +15,7 @@ https://lmstudio.ai/
 Нажимаем сверху **Select a model to load** (в отдельной специальной строчке написано) и выбираем **Llama 3.2 1B Instruct** которая ранее была загружена.  
 После того как модель будет развернута можно писать в чат - **Привет**, модель Вам ответит. Можно общаться. (но моделька довольно глупая, нужно бы найти что-то получше)
 
-<img width="1003" alt="image" src="https://github.com/user-attachments/assets/ffba98c6-39d3-4808-a2ea-f4000721f10c" />
+<img width="1003" alt="image" src="https://github.com/user-attachments/assets/ffba98c6-39d3-4808-a2ea-f4000721f10c" />  
+
 Предлагаю запустить модельку на 2 миллиарда параметров **Gemma 2 2B**: будет загружена отсюда https://huggingface.co/lmstudio-community/gemma-2-2b-it-GGUF  
 Для этого в строке поиска моделей сверху напишите **"gemma 2B"** после чего она появится в меню. Выберете ее и нажмите **Download**. Когда загрузится нажимаем **Use in New Chat** и общаемся.
