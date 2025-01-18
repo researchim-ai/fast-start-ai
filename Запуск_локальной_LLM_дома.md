@@ -17,7 +17,7 @@ https://lmstudio.ai/
 
 ![image](https://github.com/user-attachments/assets/57f6227d-8a3f-4a43-817e-679d0ee04b40)
  
-Предлагаю запустить модельку на 2 миллиарда параметров **Vikhr Gemma 2 2B**: будет загружена отсюда https://huggingface.co/Vikhrmodels/Vikhr-Gemma-2B-instruct-GGUF
+Предлагаю запустить модельку на 2 миллиарда параметров **Vikhr Gemma 2 2B**: будет загружена отсюда https://huggingface.co/Vikhrmodels/Vikhr-Gemma-2B-instruct-GGUF  
 Это специально дотренированная на русский язык модель.  
 Для этого в строке поиска моделей сверху напишите **vikhr gemma 2B** после чего она появится в меню. Выберете ее и нажмите **Download**. Когда загрузится нажимаем **Use in New Chat** и общаемся.
 
