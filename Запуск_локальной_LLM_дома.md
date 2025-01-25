@@ -41,7 +41,7 @@ https://lmstudio.ai/
 
 ![image](https://github.com/user-attachments/assets/47806e97-0ebd-423f-97f8-dd1c5ac647be)
 
-Я взял первую же **DeepSeek R1 Distill (Qwen 7B)** официально выпущенную командой DeepSeek.
+В этот раз возьмем модельку на 7 миллиардов параметров. Я взял первую же **DeepSeek R1 Distill (Qwen 7B)** официально выпущенную командой DeepSeek, квантизацию **Q6_K**.
 
 Далее пишем ему например "Порассуждай" и увидем что в окошечке **Thoughts** он немножко поговорит сам с собой
 
