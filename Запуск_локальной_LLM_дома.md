@@ -46,7 +46,7 @@ https://lmstudio.ai/
 ![image](https://github.com/user-attachments/assets/63030fba-1aae-44ca-82da-e2601734c916)
 
 
-Далее пишем ему например "Порассуждай" и увидем что в окошечке **Thoughts** он немножко поговорит сам с собой
+Далее пишем ему например "Порассуждай" и увидим что в окошечке **Thoughts** он немножко поговорит сам с собой
 
 ![image](https://github.com/user-attachments/assets/610b2edb-f72e-437e-a919-b99b83e78932)
 
