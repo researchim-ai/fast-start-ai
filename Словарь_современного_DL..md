@@ -6,18 +6,18 @@
 
 ## Оглавление
 
-- **Общий DL** – базовые принципы и методы глубокого обучения.
-- **LLM — большие языковые модели** – терминология и концепции для языковых моделей и обработки естественного языка.
-- **Computer Vision** – термины, используемые в области компьютерного зрения.
-- **Reinforcement Learning** – основные понятия и алгоритмы обучения с подкреплением.
-- **Additional Topics and Methods** – дополнительные техники и подходы в Deep Learning.
-- **Audio and Speech Processing** – термины, связанные с обработкой аудио и речью.
-- **Time Series Analysis and Forecasting** – основы анализа временных рядов и прогнозирования.
-- **Variational Methods and Normalizing Flows** – ключевые концепции вариационных методов и нормализующих потоков.
-- **Recommender Systems** – терминология систем рекомендаций.
-- **Robotics and Control** – понятия, используемые в робототехнике и системах управления.
-- **Interpretability and Explainability** – техники интерпретации и объяснения решений моделей.
-- **Edge AI and Deployment** – методы оптимизации и развертывания моделей на периферийных устройствах.
+- [Общий DL](#общий-dl)
+- [LLM — большие языковые модели](#llm---большие-языковые-модели)
+- [Computer Vision](#computer-vision)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Additional Topics and Methods](#additional-topics-and-methods)
+- [Audio and Speech Processing](#audio-and-speech-processing)
+- [Time Series Analysis and Forecasting](#time-series-analysis-and-forecasting)
+- [Variational Methods and Normalizing Flows](#variational-methods-and-normalizing-flows)
+- [Recommender Systems](#recommender-systems)
+- [Robotics and Control](#robotics-and-control)
+- [Edge AI and Deployment](#edge-ai-and-deployment)
+- [Interpretability and Explainability](#interpretability-and-explainability)
 
 ---
 
